@@ -1,0 +1,33 @@
+
+
+NET "ocarry" LOC = E11;
+
+
+NET "ocarry" DRIVE = 8;
+
+
+NET "os[1]" LOC = E12;
+
+
+NET "os[1]" DRIVE = 8;
+
+
+NET "os[0]" LOC = F12;
+
+
+NET "os[0]" DRIVE = 8;
+
+
+NET "ia[1]" LOC = L14;
+NET "ia[0]" LOC = L13;
+NET "ib[1]" LOC = D18;
+NET "ib[0]" LOC = H13;
+
+
+NET "ia[1]" PULLDOWN;
+NET "ia[0]" PULLDOWN;
+NET "ib[1]" PULLDOWN;
+
+# PlanAhead Generated IO constraints 
+
+NET "ib[0]" PULLDOWN;

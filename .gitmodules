@@ -1,0 +1,3 @@
+[submodule "vhdl-lecture"]
+	path = vhdl-lecture
+	url = git@github.com:blin04/vhdl-lecture.git
