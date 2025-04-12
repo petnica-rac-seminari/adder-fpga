@@ -7,40 +7,18 @@
     </attr>
     <netlist>
         <signal name="XLXN_1" />
-        <signal name="XLXN_2" />
-        <signal name="XLXN_9" />
         <signal name="S" />
-        <signal name="XLXN_16" />
-        <signal name="XLXN_22" />
         <signal name="XLXN_23" />
         <signal name="XLXN_26" />
-        <signal name="C0">
-        </signal>
-        <signal name="XLXN_28" />
-        <signal name="XLXN_29" />
-        <signal name="XLXN_31" />
-        <signal name="XLXN_32" />
-        <signal name="XLXN_33" />
-        <signal name="XLXN_37" />
-        <signal name="XLXN_38" />
-        <signal name="XLXN_39" />
-        <signal name="XLXN_40">
-        </signal>
+        <signal name="C0" />
         <signal name="S2" />
-        <signal name="XLXN_42" />
         <signal name="Cout" />
-        <signal name="XLXN_46" />
         <signal name="XLXN_47" />
         <signal name="XLXN_48" />
         <signal name="XLXN_49" />
         <signal name="Cin" />
-        <signal name="XLXN_52" />
-        <signal name="XLXN_54" />
         <signal name="A0" />
         <signal name="B0" />
-        <signal name="XLXN_58" />
-        <signal name="XLXN_59" />
-        <signal name="XLXN_62" />
         <signal name="B1" />
         <signal name="A1" />
         <port polarity="Output" name="S" />
